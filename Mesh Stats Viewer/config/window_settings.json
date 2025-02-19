@@ -1,0 +1,13 @@
+{
+    "title": "Mesh Stats Viewer",
+    "size": {
+        "width": 1280,
+        "height": 720
+    },
+    "vsync": true,
+    "background_color": [0.2, 0.2, 0.2, 1.0],
+    "font": {
+        "path": "res\\fonts\\Roboto-Medium.ttf",
+        "size": 20.0
+    }
+}
