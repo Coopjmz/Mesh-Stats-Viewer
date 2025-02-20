@@ -1,5 +1,5 @@
 # Mesh Stats Viewer
-Software that allows the user to analyze and view different mesh statistics.
+Software that allows the user to parse meshes from JSON format and view their different statistics.
 
 ## Installation
 1. Download the repository.
@@ -9,6 +9,7 @@ Software that allows the user to analyze and view different mesh statistics.
 
 ## Usage
 You can find some test meshes in JSON format here: [Mesh Stats Viewer\res\meshes](https://github.com/Coopjmz/Mesh-Stats-Viewer/tree/main/Mesh%20Stats%20Viewer/res/meshes)
+
 You can change the window's settings by modifying [window_settings.json](https://github.com/Coopjmz/Mesh-Stats-Viewer/blob/main/Mesh%20Stats%20Viewer/config/window_settings.json)
 
 ## External Libraries
