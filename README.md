@@ -9,6 +9,7 @@ Software that allows the user to analyze and view different mesh statistics.
 
 ## Usage
 You can find some test meshes in JSON format here: [Mesh Stats Viewer\res\meshes](https://github.com/Coopjmz/Mesh-Stats-Viewer/tree/main/Mesh%20Stats%20Viewer/res/meshes)
+
 You can change the window's settings by modifying [window_settings.json](https://github.com/Coopjmz/Mesh-Stats-Viewer/blob/main/Mesh%20Stats%20Viewer/config/window_settings.json)
 
 ## External Libraries
@@ -18,7 +19,14 @@ You can change the window's settings by modifying [window_settings.json](https:/
 - [RapidJSON (v1.1.0)](https://github.com/Tencent/rapidjson)
 
 ## Screenshots
-![lucy.png](https://github.com/Coopjmz/Mesh-Stats-Viewer/blob/main/screenshots/lucy.png)
-![lucy_subdivided_x12.png](https://github.com/Coopjmz/Mesh-Stats-Viewer/blob/main/screenshots/lucy_subdivided_x12.png)
+- pyramid.json
 ![pyramid.png](https://github.com/Coopjmz/Mesh-Stats-Viewer/blob/main/screenshots/pyramid.png)
+
+- teapot.json
 ![teapot.png](https://github.com/Coopjmz/Mesh-Stats-Viewer/blob/main/screenshots/teapot.png)
+
+- lucy.json
+![lucy.png](https://github.com/Coopjmz/Mesh-Stats-Viewer/blob/main/screenshots/lucy.png)
+
+- lucy.json (subdivided 3 times)
+![lucy_subdivided_x12.png](https://github.com/Coopjmz/Mesh-Stats-Viewer/blob/main/screenshots/lucy_subdivided_x12.png)
