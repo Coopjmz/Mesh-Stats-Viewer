@@ -1,7 +1,18 @@
-.vs/
+# Build Directory
 build/
 
+# Visual Studio
+.vs/
 *.sln
 *.vcxproj
-*.filters
-*.user
+*.vcxproj.user
+*.vcxproj.filters
+
+# GNU Make
+Makefile
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+*.xcuserdatad
+*.xcscheme
